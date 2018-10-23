@@ -4,7 +4,7 @@ __Note__: the sample database set used in the example is ...
 >
 * Labels those records to differentiate various types of traffic (e.g. normal, background or botnet)
 
-<strong>Netflow Type</b>
+<strong>Netflow Type</strong>
 
 They should be either of type __uni-directional__ and __bi-directional__. We choose bidirectional type because it has some advantages over the other one:
 
