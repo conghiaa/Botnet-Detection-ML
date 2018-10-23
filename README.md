@@ -1,1 +1,1 @@
-# Botnet-Detection-ML
+# Botnet Detection Project
